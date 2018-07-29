@@ -1,0 +1,17 @@
+#pro{
+	margin-top: 65px;
+}
+#left{
+	background-color: red;
+}
+#right{
+	background-color: yellow;
+}
+#member{
+	margin-bottom: 10px;
+	border-bottom: 2px solid red;
+	padding-bottom: 10px;
+}
+#textarea{
+	width: 100%;
+}
